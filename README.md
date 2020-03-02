@@ -1,4 +1,4 @@
-# Emacs GDSCript Flycheck
+# Emacs Flycheck GDSCript
 
 ![banner showing the "GDScript mode" title with GDScript code in the background](https://github.com/GDQuest/emacs-gdscript-mode/raw/master/assets/banner.svg?sanitize=true)
 
