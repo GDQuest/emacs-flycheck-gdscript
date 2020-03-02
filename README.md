@@ -1,14 +1,13 @@
 # Emacs GDSCript Flycheck
 
+![banner showing the "GDScript mode" title with GDScript code in the background](https://github.com/GDQuest/emacs-gdscript-mode/raw/master/assets/banner.svg?sanitize=true)
+
 This package adds linting support for Godot GDScript code through [Flycheck](https://www.flycheck.org/en/latest/), using [gdlint](https://github.com/scony/godot-gdscript-toolkit/).
 
 For general support for Godot in Emacs, see [Emacs GDScript mode](https://github.com/GDQuest/emacs-gdscript-mode).
 
+
 ## Installation
-
-![banner showing the "GDScript mode" title with GDScript code in the background](https://github.com/GDQuest/emacs-gdscript-mode/raw/master/assets/banner.svg?sanitize=true)
-
-## How to install
 
 This package isn't available in the MELPA archive yet, so you need to install it manually.
 
